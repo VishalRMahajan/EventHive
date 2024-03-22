@@ -1,0 +1,6 @@
+[submodule "Frontend_Reflex"]
+	path = Frontend_Reflex
+	url = https://github.com/VishalRMahajan/EventHiveFrontend.git
+[submodule "Backend_FastAPI"]
+	path = Backend_FastAPI
+	url = https://github.com/VishalRMahajan/EventHiveBackend.git
