@@ -7,6 +7,10 @@ Welcome to EventHive, your go-to platform for hassle-free college event ticket b
 
 
 
+## Demo
+
+https://github.com/VishalRMahajan/EventHive/assets/111660265/84551f58-76bf-4a48-9c38-afd840f2aa3c
+
 
 ## Problem Statement
 
